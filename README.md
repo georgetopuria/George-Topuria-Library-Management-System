@@ -24,8 +24,8 @@ Load data from CSV files when the program is started.
 
 ## Files
 
-This file contains the main menu and user interaction.This file is for the main menu and user interaction.
-The library logic is in the library.py file.The logic for the library is in library.py.
+This file contains the main menu and user interaction. This is the main menu and where the user interacts.
+The library logic is in the library.py file, this is where most of the work is done.
 * book.py – Book class
 * member.py – Member class
 * loan.py – Loan class
